@@ -1,5 +1,5 @@
 <Response>
   <Dial>
-    <User>sip:+918031274415@182.79.2.196;transport=tcp</User>
+    <User>sip:+918031274415@plivovsip.meesho.com;transport=tcp</User>
   </Dial>
 </Response>
