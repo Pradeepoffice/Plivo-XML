@@ -1,8 +1,7 @@
-
 <Response>
-    <Dial extraHeaders="Exotel-AccountSid: meesho10m">
-        <User sipAuthUsername="<sip_username>" sipAuthPassword="<sip_password>">
-            sip:agent@your-pbx.example.com
+    <Dial extraHeaders="Exotel-AccountSid=meesho10m">
+        <User sipAuthUsername="Meesho" sipAuthPassword="Meesho@123">
+            agent@your-pbx.example.com
         </User>
     </Dial>
 </Response>
