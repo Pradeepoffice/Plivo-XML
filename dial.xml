@@ -1,8 +1,8 @@
+
 <Response>
-    <Speak>Connecting you to a human agent now.</Speak>
-    <Dial>
-        <User sipAuthUsername="Meesho" sipAuthPassword="Meesho@123">
-            +918069892635@129.154.231.198:5070
+    <Dial extraHeaders="Exotel-AccountSid: meesho10m">
+        <User sipAuthUsername="<sip_username>" sipAuthPassword="<sip_password>">
+            sip:agent@your-pbx.example.com
         </User>
     </Dial>
 </Response>
