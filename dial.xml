@@ -1,7 +1,7 @@
 <Response>
     <Dial extraHeaders="X-Exotel-AccountSid=meesho10m">
         <User sipAuthUsername="Meesho" sipAuthPassword="Meesho@123">
-            sip:+918069892635@129.154.231.198:5070;transport=tcp
+            sip:+918069892635@in.voip.exotel.com:5070;transport=tcp
         </User>
     </Dial>
 </Response>
