@@ -2,6 +2,8 @@
     <Dial>
         <User sipHeaders="Exotel-AccountSid=meesho10m"
               sipAuthUsername="Meesho"
-                     sipAuthPassword="Meesho@123">sip:"08069892635"<sip:08069892635@in.voip.exotel.com:5070;transport=tcp</User>
+              sipAuthPassword="Meesho@123">
+              sip:"08069892635"<sip:08069892635@in.voip.exotel.com:5070;transport=tcp
+        </User>
     </Dial>
 </Response>
