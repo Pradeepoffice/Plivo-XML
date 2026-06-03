@@ -1,5 +1,5 @@
 <Response>
   <Dial>
-    <User>sip:+918031274415@SAJ2053ajmal.byoc.usw2.genesys.cloud</User>
+    <User>sip:+918031274415@plivovsip.meesho.com;transport=tcp</User>
   </Dial>
 </Response>
