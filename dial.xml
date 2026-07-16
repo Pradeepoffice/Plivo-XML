@@ -1,4 +1,10 @@
 <Response>
-  <Speak>Please wait while we connect you to our assistant.</Speak>
+    <Speak voice="Polly.Aditi" language="en-IN">
+        Welcome to Noise Customer Care.
+        <break time="500ms"/>
+        Please note that Noise will never contact you with special offers, lucky draws, or prizes. Never share your personal or banking details over the phone or WhatsApp.
+        <break time="500ms"/>
+        This call may be recorded for quality and training purposes.
+    </Speak>
   <Redirect method="GET">https://env15769-stg-ai-services-outbound.dev.meeshogcp.in/api/v1/call-handler/route-call-back/plivo/noise_inbound</Redirect>
 </Response>
