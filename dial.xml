@@ -1,5 +1,4 @@
 <Response>
-  <Dial>
-    <User>sip:+918031274415@182.79.2.196;transport=tcp</User>
-  </Dial>
+  <Speak>Please wait while we connect you to our assistant.</Speak>
+  <Redirect>https://env15769-stg-ai-services-outbound.dev.meeshogcp.in/api/v1/call-handler/route-call-back/plivo/noise_inbound</Redirect>
 </Response>
