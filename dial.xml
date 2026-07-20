@@ -6,5 +6,5 @@
         <break time="500ms"/>
         This call may be recorded for quality and training purposes.
     </Speak>
-  <Redirect method="GET">https://env15769-stg-ai-services-outbound.dev.meeshogcp.in/api/v1/call-handler/route-call-back/plivo/noise_inbound</Redirect>
+  <Redirect method="GET">https://voice.supl-h1.meeshogcp.in/api/v1/call-handler/route-call-back/plivo/noise_inbound</Redirect>
 </Response>
