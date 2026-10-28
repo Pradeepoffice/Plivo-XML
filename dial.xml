@@ -6,5 +6,11 @@
         <break time="500ms"/>
         This call may be recorded for quality and training purposes.
     </Speak>
-  <Redirect method="GET">https://voice.supl-h1.meeshogcp.in/api/v1/call-handler/route-call-back/plivo/noise_inbound</Redirect>
+
+    <Dial timeout="30">
+        <Number>+919790571549</Number>
+    </Dial>
+
+    <Speak>Sorry, the person is unavailable. Please try again later.</Speak>
+    <Hangup/>
 </Response>
