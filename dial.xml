@@ -1,16 +1,5 @@
 <Response>
-    <Speak voice="Polly.Aditi" language="en-IN">
-        Welcome to Plivo Customer Care.
-        <break time="500ms"/>
-        Please note that Plivo will never contact you with special offers, lucky draws, or prizes. Never share your personal or banking details over the phone or WhatsApp.
-        <break time="500ms"/>
-        This call may be recorded for quality and training purposes.
-    </Speak>
-
-    <Dial timeout="30">
+    <Dial>
         <Number>+919790571549</Number>
     </Dial>
-
-    <Speak>Sorry, the person is unavailable. Please try again later.</Speak>
-    <Hangup/>
 </Response>
