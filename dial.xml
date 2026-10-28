@@ -1,8 +1,8 @@
 <Response>
     <Speak voice="Polly.Aditi" language="en-IN">
-        Welcome to Noise Customer Care.
+        Welcome to plivo Customer Care.
         <break time="500ms"/>
-        Please note that Noise will never contact you with special offers, lucky draws, or prizes. Never share your personal or banking details over the phone or WhatsApp.
+        Please note that Plivo will never contact you with special offers, lucky draws, or prizes. Never share your personal or banking details over the phone or WhatsApp.
         <break time="500ms"/>
         This call may be recorded for quality and training purposes.
     </Speak>
