@@ -2,7 +2,7 @@
     <Speak voice="Polly.Aditi" language="en-IN">
         Welcome to Plivo Customer Care.
         <break time="500ms"/>
-        Please note that Plivo will never contact you with special offers, lucky draws, or prizes. Never share your personal or banking details over the phone or WhatsApp.
+        Please note that This is middleware plivo test call
         <break time="500ms"/>
         This call may be recorded for quality and training purposes.
     </Speak>
