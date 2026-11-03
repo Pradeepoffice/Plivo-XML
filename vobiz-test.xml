@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-        <Speak>
-        Welcome to Vobiz Dialler.
-        <break/>
+        <Speak>Welcome to Vobiz Dialler.
         Please note that this is a middleware test call initiated from the Vobiz dialler.
-        <break/>
         This call may be recorded for quality and training purposes.
-        <break/>
         We are now transferring your call to the Middleware Team.
-        Please stay on the line.
-    </Speak>
+        Please stay on the line. </Speak>
     <Dial callerId="+918064262092" timeout="30">
         <Number>+919651332143</Number>
     </Dial>
