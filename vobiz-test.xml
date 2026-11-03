@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-    <Speak voice="WOMAN" language="en-GB">
+        <Speak>
         Welcome to Vobiz Dialler.
         <break/>
         Please note that this is a middleware test call initiated from the Vobiz dialler.
@@ -10,7 +10,6 @@
         We are now transferring your call to the Middleware Team.
         Please stay on the line.
     </Speak>
-
     <Dial callerId="+918064262092" timeout="30">
         <Number>+919651332143</Number>
     </Dial>
