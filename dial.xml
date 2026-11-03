@@ -1,10 +1,5 @@
 <Response>
-    <Speak voice="Polly.Aditi" language="en-IN">
-        Welcome to Plivo Customer Care.
-        <break time="500ms"/>
-        Please note that This is middleware plivo test call
-        <break time="500ms"/>
-        This call may be recorded for quality and training purposes.
-    </Speak>
-  <Redirect method="GET">https://voice.supl-h1.meeshogcp.in/api/v1/call-handler/route-call-back/plivo/noise_inbound</Redirect>
+    <Dial callerId="+918031149917">
+        <Number>+919790571549</Number>
+    </Dial>
 </Response>
