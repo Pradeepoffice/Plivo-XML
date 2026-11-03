@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-    <Speak>
+    <Speak voice="WOMAN" language="en-GB">
         Welcome to Vobiz Dialler.
-        Please note that this is a middleware test call initiated from the Vobiz dialler.We are now testing the call transfer to Middleware Team.
+        <break/>
+        Please note that this is a middleware test call initiated from the Vobiz dialler.
+        <break/>
+        This call may be recorded for quality and training purposes.
+        <break/>
+        We are now testing the call transfer to Middleware Team.
     </Speak>
     <Dial callerId="+918064262092" timeout="30">
         <Number>+919651332143</Number>
