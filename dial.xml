@@ -6,7 +6,7 @@
         <break time="500ms"/>
         This call may be recorded for quality and training purposes.
         <break time="500ms"/>
-        We are now testing the call transfer to Akshay.
+        We are now testing the call transfer to Middleware Team.
     </Speak>
 
     <Dial callerId="+918031149917">
