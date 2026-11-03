@@ -1,4 +1,14 @@
 <Response>
+    <Speak voice="Polly.Aditi" language="en-IN">
+        Welcome to Plivo Customer Care.
+        <break time="500ms"/>
+        Please note that this is a middleware test call initiated from the Plivo dialler.
+        <break time="500ms"/>
+        This call may be recorded for quality and training purposes.
+        <break time="500ms"/>
+        We are now testing the call transfer to Akshay.
+    </Speak>
+
     <Dial callerId="+918031149917">
         <Number>+919790571549</Number>
     </Dial>
