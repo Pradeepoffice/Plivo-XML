@@ -7,8 +7,10 @@
         <break/>
         This call may be recorded for quality and training purposes.
         <break/>
-        We are now testing the call transfer to Middleware Team.
+        We are now transferring your call to the Middleware Team.
+        Please stay on the line.
     </Speak>
+
     <Dial callerId="+918064262092" timeout="30">
         <Number>+919651332143</Number>
     </Dial>
